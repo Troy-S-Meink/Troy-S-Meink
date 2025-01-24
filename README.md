@@ -1,4 +1,4 @@
-Troy S. Meink, UVA Undergraduate
+##Troy S. Meink, UVA Undergraduate
 
 - 🔭 I’m currently working on DS 2002
 - 🌱 I’m currently learning Mechanical Engineering
